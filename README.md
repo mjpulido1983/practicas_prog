@@ -1,3 +1,3 @@
 # practicas_prog
-Hola, archivo de primer proyecto.
+bienvenidos a todos y todas.
  
